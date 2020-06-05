@@ -1,0 +1,16 @@
+setup.py
+google_trends/__init__.py
+google_trends/items.py
+google_trends/middlewares.py
+google_trends/pipelines.py
+google_trends/settings.py
+google_trends/spiders/__init__.py
+google_trends/spiders/interest_by_region.py
+google_trends/spiders/interest_over_time.py
+google_trends/spiders/related_queries.py
+google_trends/spiders/related_topics.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
